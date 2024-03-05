@@ -1,5 +1,5 @@
 # Cognifyz_Tasks 
-In the stipulated period of internship with Cognifyz Technologies,  I got to work on an important dataset regarding restaurants all over the world . From just viewing the dataset to actually building regression models and visualising them , this internship tasks were important for me to understand the concept of data clearly. Below is the brief description of the tasks list.
+In the stipulated period of internship with Cognifyz Technologies,  I got to work on an important dataset regarding restaurants all over the world . From just viewing the dataset to actually building regression models and visualising them , these internship tasks had it all and were important for me to understand the concept of data clearly. Below is the brief description of the tasks list.
 + **Level 1 :**
 Level 1 was introductory level in which we had to perform basic operations like data exploration and preprocessing,  descriptive and geospatial analysis.
 + **Level 2 :**
